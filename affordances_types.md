@@ -10,11 +10,11 @@
 
 #### Github Mobile
 
-![Github Mobile Home Screen](./assets/images/github_mobile_screenshot.png)
+![Github Mobile Home Screen](./assets/images/github_mobile_screen.svg)
 
 #### Bitwarden Web
 
-![Bitwarden Web Login Screen](./assets/images/bitwarden_screenshot.png)
+![Bitwarden Web Login Screen](./assets/images/bitwarden_screen.svg)
 
 ## Affordance Padrão
 
